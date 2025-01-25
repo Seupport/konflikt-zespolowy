@@ -1,2 +1,6 @@
 Tekst poczatkowy
+
 tekst dodany przez studenta B
+
+tekst dodany przez studenta A
+
